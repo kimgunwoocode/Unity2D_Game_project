@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerAttack
+  - EnemyAttack
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - EnemyAttack
+  - FireBoss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap1
+    uniqueID: 2296956621
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3302499445
+    locked: 0
+  - name: Test
+    uniqueID: 821017063
+    locked: 0
+  - name: Plaayer_leg
+    uniqueID: 1144583809
+    locked: 0
+  - name: Player_body
+    uniqueID: 2324469557
+    locked: 0
+  - name: Item
+    uniqueID: 3255962989
+    locked: 0

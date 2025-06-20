@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4d46762ff502eef4bbe06fe986834ab4
+  - enabled: 1
+    path: Assets/Scenes/DontDestroyObject_Scene.unity
+    guid: 80dcedeba4cd9b6468b01dc8968181f9
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Water_Dungeon/Boss_Water.unity
+    guid: a713a50dbbeb02e4d9fecee917ccf294
+  - enabled: 1
+    path: Assets/Scenes/Water_Dungeon/Stage1_Water.unity
+    guid: 3287e55b1ebb18240a04150cb392e189
+  - enabled: 1
+    path: Assets/Scenes/Fire_Dungeon/FireDungeon.unity
+    guid: 23dc1c4de73d65a42a89c850ded33294
+  - enabled: 1
+    path: Assets/Scenes/Wind_Dungeon/Stage1_Wind.unity
+    guid: f78624c0823ba8a48bb0f298b91b3274
+  - enabled: 1
+    path: Assets/Scenes/Wind_Dungeon/Boss_Wind.unity
+    guid: 4e1db0ac1c29d174abd4a58929077c95
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: b9d474f1bb3a01949b0c7e37630bbf29
+  - enabled: 1
+    path: Assets/Scenes/Dungeon4/Dungeon4.unity
+    guid: b0c8458e566662a479b68acf667e5006
+  m_configObjects: {}
