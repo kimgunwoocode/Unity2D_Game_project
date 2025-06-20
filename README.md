@@ -13,7 +13,7 @@
 **맡은 역할**
 : 개발자 및 총관리자(팀장)
 
-*개발부분* : 
+*개발부분* \n
 네 개의 스테이지 중 'water dungeon'파트 개발
 UI 디자인 및 개발 (타이틀화면, 엔딩화면, 일시정지 화면, 조이스틱, 공격버튼 등)
 Player 부분 개발 (PlayerManager, PlayerAttack, PlayerMove 등)
